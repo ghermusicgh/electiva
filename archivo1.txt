@@ -1,5 +1,3 @@
-""
-Primera linea de codigo
 Nombre: German
 Apellido: Torres
 Asignatura: Electiva Profundizacion 1
